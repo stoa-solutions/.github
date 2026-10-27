@@ -21,7 +21,7 @@ Cet espace rassemble les projets que Stoa partage avec la communauté : leur cod
 Une bibliothèque musicale et un DJ conversationnel sur Mac : retrouver un titre, explorer une ambiance et préparer la suite de l’écoute.
 
 <a href="https://github.com/stoa-solutions/sillage">
-  <img src="https://raw.githubusercontent.com/stoa-solutions/sillage/main/docs/images/sillage.webp" alt="Aperçu de Sillage sur Mac : lecteur musical et conversation avec le DJ." width="100%">
+  <img src="https://raw.githubusercontent.com/stoa-solutions/.github/main/profile/assets/sillage-preview.svg" alt="Aperçu de Sillage sur Mac : lecteur musical et conversation avec le DJ." width="100%">
 </a>
 
 [Explorer le code](https://github.com/stoa-solutions/sillage) · [Lire la documentation](https://github.com/stoa-solutions/sillage/blob/main/docs/architecture.md) · [Découvrir le projet](https://stoa.solutions/sillage)

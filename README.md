@@ -13,7 +13,7 @@ GitHub affiche `profile/README.md` sur son accueil.
 
 Pour régénérer la bannière, ouvrir `design/banner.html` dans un navigateur avec une fenêtre de 1600 × 680 pixels, attendre le chargement des polices et exporter cette zone en PNG. La composition utilise Manrope et IBM Plex Mono, embarquées avec leurs licences OFL.
 
-L’aperçu Sillage est référencé depuis son dépôt public pour conserver une source unique. Vérifier les liens après un renommage de dépôt ou de branche.
+L’aperçu Sillage reprend la capture publique `stoa-solutions/sillage/main/docs/images/sillage.webp` dans une enveloppe SVG : un masque arrondi rend les coins transparents sans retoucher les pixels de l’interface. Après une mise à jour de la capture, régénérer cette enveloppe et vérifier les modes clair et sombre.
 
 ## Identité et contenus
 
