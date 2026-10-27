@@ -8,6 +8,7 @@ GitHub affiche `profile/README.md` sur son accueil.
 - Texte et liens : `profile/README.md`.
 - Bannière affichée : `profile/assets/stoa-github-banner.png` (1600 × 680).
 - Composition éditable : `design/banner.html`.
+- Avatar : `profile/assets/stoa-avatar.png` (512 × 512, symbole officiel orange sur fond craie).
 - Logo : `profile/assets/stoa-logo-encre.svg`, tracés officiels de Stoa.
 - Matière architecturale et polices : `design/`.
 

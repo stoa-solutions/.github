@@ -10,9 +10,9 @@ Cet espace rassemble les projets que Stoa partage avec la communauté : leur cod
 
 ### De l’idée à l’usage. Et pour la suite.
 
-| Développer. | Faire durer. | Transmettre. |
-| :--- | :--- | :--- |
-| Applications web, outils métier et intégrations qui répondent à un besoin concret. | Maintenance, évolutions et documentation pour des outils fiables et utiles. | Formation à l’IA et ateliers fondés sur les usages, la pratique et un regard critique. |
+- **Développer.** Applications web, outils métier et intégrations qui répondent à un besoin concret.
+- **Faire durer.** Maintenance, évolutions et documentation pour des outils fiables et utiles.
+- **Transmettre.** Formation à l’IA et ateliers fondés sur les usages, la pratique et un regard critique.
 
 ### À découvrir : Sillage
 
